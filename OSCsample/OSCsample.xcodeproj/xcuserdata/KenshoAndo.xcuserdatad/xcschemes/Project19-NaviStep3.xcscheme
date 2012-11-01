@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5D385EB815ED0C01000F7D6C"
                BuildableName = "OSCProject.app"
-               BlueprintName = "OSCProject"
-               ReferencedContainer = "container:OSCProject.xcodeproj">
+               BlueprintName = "OSCsample"
+               ReferencedContainer = "container:OSCsample.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,8 +46,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5D385EB815ED0C01000F7D6C"
             BuildableName = "OSCProject.app"
-            BlueprintName = "OSCProject"
-            ReferencedContainer = "container:OSCProject.xcodeproj">
+            BlueprintName = "OSCsample"
+            ReferencedContainer = "container:OSCsample.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -66,8 +66,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5D385EB815ED0C01000F7D6C"
             BuildableName = "OSCProject.app"
-            BlueprintName = "OSCProject"
-            ReferencedContainer = "container:OSCProject.xcodeproj">
+            BlueprintName = "OSCsample"
+            ReferencedContainer = "container:OSCsample.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

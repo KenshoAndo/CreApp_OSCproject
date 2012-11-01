@@ -23,7 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		5D385EB915ED0C01000F7D6C /* OSCProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OSCProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5D385EB915ED0C01000F7D6C /* OSCsample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OSCsample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D385EBD15ED0C01000F7D6C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		5D385EBF15ED0C01000F7D6C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		5D385EC115ED0C01000F7D6C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -85,7 +85,7 @@
 		5D385EBA15ED0C01000F7D6C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5D385EB915ED0C01000F7D6C /* OSCProject.app */,
+				5D385EB915ED0C01000F7D6C /* OSCsample.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -152,9 +152,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5D385EB815ED0C01000F7D6C /* OSCProject */ = {
+		5D385EB815ED0C01000F7D6C /* OSCsample */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5D385ED115ED0C01000F7D6C /* Build configuration list for PBXNativeTarget "OSCProject" */;
+			buildConfigurationList = 5D385ED115ED0C01000F7D6C /* Build configuration list for PBXNativeTarget "OSCsample" */;
 			buildPhases = (
 				5D385EB515ED0C01000F7D6C /* Sources */,
 				5D385EB615ED0C01000F7D6C /* Frameworks */,
@@ -164,9 +164,9 @@
 			);
 			dependencies = (
 			);
-			name = OSCProject;
+			name = OSCsample;
 			productName = CA2012Summer01;
-			productReference = 5D385EB915ED0C01000F7D6C /* OSCProject.app */;
+			productReference = 5D385EB915ED0C01000F7D6C /* OSCsample.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -178,7 +178,7 @@
 				LastUpgradeCheck = 0450;
 				ORGANIZATIONNAME = "けん悟庵";
 			};
-			buildConfigurationList = 5D385EB315ED0C01000F7D6C /* Build configuration list for PBXProject "OSCProject" */;
+			buildConfigurationList = 5D385EB315ED0C01000F7D6C /* Build configuration list for PBXProject "OSCsample" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -190,7 +190,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5D385EB815ED0C01000F7D6C /* OSCProject */,
+				5D385EB815ED0C01000F7D6C /* OSCsample */,
 			);
 		};
 /* End PBXProject section */
@@ -289,7 +289,7 @@
 				GCC_PREFIX_HEADER = Source/CreAppPrefix.pch;
 				INFOPLIST_FILE = Source/CreAppInfo.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
-				PRODUCT_NAME = OSCProject;
+				PRODUCT_NAME = OSCsample;
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
@@ -302,7 +302,7 @@
 				GCC_PREFIX_HEADER = Source/CreAppPrefix.pch;
 				INFOPLIST_FILE = Source/CreAppInfo.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
-				PRODUCT_NAME = OSCProject;
+				PRODUCT_NAME = OSCsample;
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
@@ -311,7 +311,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5D385EB315ED0C01000F7D6C /* Build configuration list for PBXProject "OSCProject" */ = {
+		5D385EB315ED0C01000F7D6C /* Build configuration list for PBXProject "OSCsample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5D385ECF15ED0C01000F7D6C /* Debug */,
@@ -320,7 +320,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5D385ED115ED0C01000F7D6C /* Build configuration list for PBXNativeTarget "OSCProject" */ = {
+		5D385ED115ED0C01000F7D6C /* Build configuration list for PBXNativeTarget "OSCsample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5D385ED215ED0C01000F7D6C /* Debug */,
